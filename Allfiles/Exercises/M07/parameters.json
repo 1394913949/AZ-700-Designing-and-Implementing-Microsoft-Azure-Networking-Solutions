@@ -6,7 +6,7 @@
             "value": "GEN-UNIQUE"
         },
         "location": {
-            "value": "westus"
+            "value": "eastus"
         },
         "sku": {
             "value": "PremiumV2"
